@@ -1,12 +1,31 @@
-  ## Hello!
+  ## Olá, como vai?!
   
-  Sobre mim
+  Meu nome é Nikole, eu sou de São Paulo, Brasil.
+  
+  Sou estudande de Sistemas de Informação
+  
+  Pronomes: ela / ela
+  
+  contribuir 
+  Quando não estou programando
+  tornar a web acessível a todos e defender a construção de comunidades de desenvolvedores abertas e inclusivas.
+  Curiosidade:
+  🌱 Estou aprendendo
+  
+  🎯Objetivos de 2021:
+  
+  🛠️
   
  <div>
   <a href="https://www.linkedin.com/in/nikole-gomes/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NikoleGomes&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikoleGomes&layout=compact&langs_count=7&theme=prussian"/>
 </div>
+  
+  ##
+  
+  ### Algumas das tecnologias que trabalho hoje:
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Nick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -17,7 +36,7 @@
    
    ##
    
-   Contatos:
+   ### 📫 Contatos:
  
   <div> 
     <a href="https://www.linkedin.com/in/nikole-gomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
