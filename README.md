@@ -1,12 +1,12 @@
-## Oi, eu me chamo Nikole! 
+## Oi, eu sou a Nikole! Como vai?!
 
-  São Paulo, Brasil.
-  Pronomes: ela / dela.
-  Estudande de Sistemas de Informação.
-  🎯Objetivos de 2021:
-  Quando não estou programando:
-  Curiosidade sobre mim:
-  Contibuir para a evolução da tecnologia e tornar a web acessível a todos.
+  🤗 Ela / Dela. <br>
+  🏠 São Paulo, Brasil. <br>
+  🎓 Sistemas de Informação. <br>
+  🍕 Gosto de brincar com os meus cachorros, assistir Netflix, ler livros de ficção fantástica e distopias. <br>
+  ❤️ Minhas motivações são poder contibuir para a evolução da tecnologia e tornar a web acessível a todos. <br>
+  
+  ##
   
   <div>
     <a href="https://www.linkedin.com/in/nikole-gomes/">
