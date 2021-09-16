@@ -9,7 +9,7 @@
   ##
   
   <div>
-    <a href="https://www.linkedin.com/in/nikole-gomes/">
+    <a href="https://www.linkedin.com/in/nikole-gomes/" target="_blank">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NikoleGomes&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikoleGomes&layout=compact&langs_count=7&theme=prussian"/>
   </div>
