@@ -3,8 +3,8 @@
   🤗 Ela / Dela. <br>
   🏠 São Paulo, Brasil. <br>
   🎓 Sistemas de Informação. <br>
-  🍕 Gosto de brincar com os meus cachorros, assistir Netflix, ler livros de ficção fantástica e distopias. <br>
-  ❤️ Minhas motivações são poder contibuir para a evolução da tecnologia e tornar a web acessível a todos. <br>
+  🍕 Doguinhos, pizza, livros da Sarah J. Maas e Netflix, nessa ordem. <br>
+  ❤️ Minhas motivações são contribuir para a evolução da tecnologia e tornar a web acessível para todos. <br>
   
   ##
   
