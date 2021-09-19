@@ -1,4 +1,4 @@
-## Oi, eu sou a Nikole! Como vai?!
+## Oi, meu nome é Nikole! Como vai?!
 
   🤗 Ela / Dela. <br>
   🏠 São Paulo, Brasil. <br>
