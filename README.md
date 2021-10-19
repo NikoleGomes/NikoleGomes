@@ -3,7 +3,6 @@
   🤗 Ela / Dela. <br>
   🏠 São Paulo, Brasil. <br>
   🎓 Sistemas de Informação. <br>
-  🍕 Doguinhos, pizza, livros da Agatha Christie e Netflix, nessa ordem. <br>
   ❤️ Minhas motivações são contribuir para a evolução da tecnologia e tornar a web acessível a todos. <br>
   
   ##
